@@ -1,10 +1,10 @@
 # Jekyll docs site
 
-This directory contains the code for the Jekyll docs site, [jekyllrb.com](http://jekyllrb.com/).
+This directory contains the code for the Jekyll docs site, [jekyll.1919.pw](http://jekyll.1919.pw/).
 
 ## Contributing
 
-For information about contributing, see the [Contributing page](http://jekyllrb.com/docs/contributing/).
+For information about contributing, see the [Contributing page](http://jekyll.1919.pw/docs/contributing/).
 
 ## Running locally
 
